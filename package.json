@@ -1,0 +1,23 @@
+{
+  "name": "walmart",
+  "version": "1.0.0",
+  "description": "upc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmed-ahmed/walmart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmed-ahmed/walmart/issues"
+  },
+  "homepage": "https://github.com/ahmed-ahmed/walmart#readme",
+  "dependencies": {
+    "xml2js": "^0.4.23"
+  }
+}
